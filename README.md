@@ -3,8 +3,8 @@
 ### To be able to run the application follow the steps:
 
 -   Clone the repository
--   Enter to the directory cloned
--   Run the command bellow to start the server
+-   From the terminal enter to the directory cloned
+-   From the terminal run the command bellow to start the server
 
 ```console
 python3 server.py
