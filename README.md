@@ -17,3 +17,7 @@ python3 server.py
 ---
 
 ### Next step is to go to the client repo and follow instructions from there
+
+---
+
+### Once the Client server is intiated and listening on incoming calls we can start typing our messages. To quit the application type "q"
